@@ -1,0 +1,6 @@
+[submodule "test_phidget"]
+	path = test_phidget
+	url = https://github.com/VictorBeaulieu/test_phidget.git
+[submodule "test_copy"]
+	path = test_copy
+	url = https://github.com/VictorBeaulieu/test_copy.git
