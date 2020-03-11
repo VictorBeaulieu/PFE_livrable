@@ -4,3 +4,9 @@
 [submodule "test_copy"]
 	path = programmation/copying_program
 	url = https://github.com/VictorBeaulieu/test_copy.git
+[submodule "programmation/embedded_program/test_phidget"]
+	path = programmation/embedded_program/test_phidget
+	url = https://github.com/VictorBeaulieu/test_phidget.git
+[submodule "programmation/copying_program/test_copy"]
+	path = programmation/copying_program/test_copy
+	url = https://github.com/VictorBeaulieu/test_copy.git
