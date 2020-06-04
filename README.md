@@ -25,7 +25,7 @@ Pour résumé, il faut :
 
 * [x] dossier projet de l’application Phidget
 * [x] dossier projet de l’application de mise à jour des fichiers audio
-* [ ] clone de l’OS utilisé 
+* [ ] clone de l’OS utilisé (impossible de récupéré le SBC utilisé pour en faire une copie à cause du confinement)
 * [x] cahier de spécification
 * [x] cahier d’analyse
 * [x] rapport
