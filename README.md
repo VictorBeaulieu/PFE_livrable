@@ -43,6 +43,6 @@ PFE_livrable/<br>
 │       └── Soutenance<br>
 └── programmation/<br>
     ├── copying_program<br>
-    |   └── test_copy // fichier projet<br>
+    │   └── test_copy // fichier projet<br>
     └── embedded_program<br>
         └── test_phidget // fichier projet<br>
